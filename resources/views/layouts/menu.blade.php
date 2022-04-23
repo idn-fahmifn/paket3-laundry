@@ -11,6 +11,10 @@
                         <i class="fa fa-user nav-icon"></i>
                         <p>User</p>
                     </a>
+                    <a href="/jabatan" class="nav-link">
+                        <i class="fa fa-user nav-icon"></i>
+                        <p>Jabatan</p>
+                    </a>
                     <a href="/outlet" class="nav-link">
                         <i class="fas fa-store nav-icon"></i>
                         <p>Outlet</p>
